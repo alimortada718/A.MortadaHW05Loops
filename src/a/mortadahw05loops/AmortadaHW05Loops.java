@@ -2,7 +2,7 @@
  *  Application Title:
  * Author: Ali Mortada
  * Keene State College Computer Science
- * Date:
+ * Date:12/5/2021
  * Purpose: Creating a christmas tree
  */
 package a.mortadahw05loops;
@@ -102,9 +102,6 @@ public class AmortadaHW05Loops {
                     }
                     System.out.println(" ");
                 }
-                
-                
-                
                 Scanner scanner = new Scanner(System.in);
 
 if (true) {
@@ -114,20 +111,14 @@ if (true) {
          System.out.println("Ok! Let's carry on!");
          
          
-    }else{
-    x=2;
-            
-    
     }
-
-   
-}
-        
-        
-         
-}
-}
-}
+    else{
+    x=2;
+ }
+ }       
+ }
+ }
+ }
 
 
 
